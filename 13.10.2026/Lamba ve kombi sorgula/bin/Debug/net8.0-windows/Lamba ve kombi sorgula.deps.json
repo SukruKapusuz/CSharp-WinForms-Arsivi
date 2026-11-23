@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lamba ve kombi sorgula/1.0.0": {
+        "runtime": {
+          "Lamba ve kombi sorgula.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lamba ve kombi sorgula/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

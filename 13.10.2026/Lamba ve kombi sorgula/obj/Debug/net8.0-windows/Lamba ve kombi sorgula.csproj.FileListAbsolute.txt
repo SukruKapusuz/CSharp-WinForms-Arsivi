@@ -1,0 +1,16 @@
+D:\c#\13.10.2026\Lamba ve kombi sorgula\bin\Debug\net8.0-windows\Lamba ve kombi sorgula.exe
+D:\c#\13.10.2026\Lamba ve kombi sorgula\bin\Debug\net8.0-windows\Lamba ve kombi sorgula.deps.json
+D:\c#\13.10.2026\Lamba ve kombi sorgula\bin\Debug\net8.0-windows\Lamba ve kombi sorgula.runtimeconfig.json
+D:\c#\13.10.2026\Lamba ve kombi sorgula\bin\Debug\net8.0-windows\Lamba ve kombi sorgula.dll
+D:\c#\13.10.2026\Lamba ve kombi sorgula\bin\Debug\net8.0-windows\Lamba ve kombi sorgula.pdb
+D:\c#\13.10.2026\Lamba ve kombi sorgula\obj\Debug\net8.0-windows\Lamba_ve_kombi_sorgula.Form1.resources
+D:\c#\13.10.2026\Lamba ve kombi sorgula\obj\Debug\net8.0-windows\Lamba ve kombi sorgula.csproj.GenerateResource.cache
+D:\c#\13.10.2026\Lamba ve kombi sorgula\obj\Debug\net8.0-windows\Lamba ve kombi sorgula.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\13.10.2026\Lamba ve kombi sorgula\obj\Debug\net8.0-windows\Lamba ve kombi sorgula.AssemblyInfoInputs.cache
+D:\c#\13.10.2026\Lamba ve kombi sorgula\obj\Debug\net8.0-windows\Lamba ve kombi sorgula.AssemblyInfo.cs
+D:\c#\13.10.2026\Lamba ve kombi sorgula\obj\Debug\net8.0-windows\Lamba ve kombi sorgula.csproj.CoreCompileInputs.cache
+D:\c#\13.10.2026\Lamba ve kombi sorgula\obj\Debug\net8.0-windows\Lamba ve kombi sorgula.dll
+D:\c#\13.10.2026\Lamba ve kombi sorgula\obj\Debug\net8.0-windows\refint\Lamba ve kombi sorgula.dll
+D:\c#\13.10.2026\Lamba ve kombi sorgula\obj\Debug\net8.0-windows\Lamba ve kombi sorgula.pdb
+D:\c#\13.10.2026\Lamba ve kombi sorgula\obj\Debug\net8.0-windows\Lamba ve kombi sorgula.genruntimeconfig.cache
+D:\c#\13.10.2026\Lamba ve kombi sorgula\obj\Debug\net8.0-windows\ref\Lamba ve kombi sorgula.dll

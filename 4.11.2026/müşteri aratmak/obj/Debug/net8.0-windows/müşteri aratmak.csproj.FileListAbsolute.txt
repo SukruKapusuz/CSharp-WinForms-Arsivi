@@ -1,0 +1,16 @@
+D:\c#\4.11.2026\müşteri aratmak\bin\Debug\net8.0-windows\müşteri aratmak.exe
+D:\c#\4.11.2026\müşteri aratmak\bin\Debug\net8.0-windows\müşteri aratmak.deps.json
+D:\c#\4.11.2026\müşteri aratmak\bin\Debug\net8.0-windows\müşteri aratmak.runtimeconfig.json
+D:\c#\4.11.2026\müşteri aratmak\bin\Debug\net8.0-windows\müşteri aratmak.dll
+D:\c#\4.11.2026\müşteri aratmak\bin\Debug\net8.0-windows\müşteri aratmak.pdb
+D:\c#\4.11.2026\müşteri aratmak\obj\Debug\net8.0-windows\müşteri_aratmak.Form1.resources
+D:\c#\4.11.2026\müşteri aratmak\obj\Debug\net8.0-windows\müşteri aratmak.csproj.GenerateResource.cache
+D:\c#\4.11.2026\müşteri aratmak\obj\Debug\net8.0-windows\müşteri aratmak.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\4.11.2026\müşteri aratmak\obj\Debug\net8.0-windows\müşteri aratmak.AssemblyInfoInputs.cache
+D:\c#\4.11.2026\müşteri aratmak\obj\Debug\net8.0-windows\müşteri aratmak.AssemblyInfo.cs
+D:\c#\4.11.2026\müşteri aratmak\obj\Debug\net8.0-windows\müşteri aratmak.csproj.CoreCompileInputs.cache
+D:\c#\4.11.2026\müşteri aratmak\obj\Debug\net8.0-windows\müşteri aratmak.dll
+D:\c#\4.11.2026\müşteri aratmak\obj\Debug\net8.0-windows\refint\müşteri aratmak.dll
+D:\c#\4.11.2026\müşteri aratmak\obj\Debug\net8.0-windows\müşteri aratmak.pdb
+D:\c#\4.11.2026\müşteri aratmak\obj\Debug\net8.0-windows\müşteri aratmak.genruntimeconfig.cache
+D:\c#\4.11.2026\müşteri aratmak\obj\Debug\net8.0-windows\ref\müşteri aratmak.dll

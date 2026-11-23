@@ -1,0 +1,32 @@
+D:\c#\28.10.2026\aktarma ekranı ( veli hoca)\bin\Debug\net8.0-windows\aktarma ekranı ( veli hoca).exe
+D:\c#\28.10.2026\aktarma ekranı ( veli hoca)\bin\Debug\net8.0-windows\aktarma ekranı ( veli hoca).deps.json
+D:\c#\28.10.2026\aktarma ekranı ( veli hoca)\bin\Debug\net8.0-windows\aktarma ekranı ( veli hoca).runtimeconfig.json
+D:\c#\28.10.2026\aktarma ekranı ( veli hoca)\bin\Debug\net8.0-windows\aktarma ekranı ( veli hoca).dll
+D:\c#\28.10.2026\aktarma ekranı ( veli hoca)\bin\Debug\net8.0-windows\aktarma ekranı ( veli hoca).pdb
+D:\c#\28.10.2026\aktarma ekranı ( veli hoca)\obj\Debug\net8.0-windows\aktarma_ekranı___veli_hoca_.Form1.resources
+D:\c#\28.10.2026\aktarma ekranı ( veli hoca)\obj\Debug\net8.0-windows\aktarma ekranı ( veli hoca).csproj.GenerateResource.cache
+D:\c#\28.10.2026\aktarma ekranı ( veli hoca)\obj\Debug\net8.0-windows\aktarma ekranı ( veli hoca).GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\28.10.2026\aktarma ekranı ( veli hoca)\obj\Debug\net8.0-windows\aktarma ekranı ( veli hoca).AssemblyInfoInputs.cache
+D:\c#\28.10.2026\aktarma ekranı ( veli hoca)\obj\Debug\net8.0-windows\aktarma ekranı ( veli hoca).AssemblyInfo.cs
+D:\c#\28.10.2026\aktarma ekranı ( veli hoca)\obj\Debug\net8.0-windows\aktarma ekranı ( veli hoca).csproj.CoreCompileInputs.cache
+D:\c#\28.10.2026\aktarma ekranı ( veli hoca)\obj\Debug\net8.0-windows\aktarma ekranı ( veli hoca).dll
+D:\c#\28.10.2026\aktarma ekranı ( veli hoca)\obj\Debug\net8.0-windows\refint\aktarma ekranı ( veli hoca).dll
+D:\c#\28.10.2026\aktarma ekranı ( veli hoca)\obj\Debug\net8.0-windows\aktarma ekranı ( veli hoca).pdb
+D:\c#\28.10.2026\aktarma ekranı ( veli hoca)\obj\Debug\net8.0-windows\aktarma ekranı ( veli hoca).genruntimeconfig.cache
+D:\c#\28.10.2026\aktarma ekranı ( veli hoca)\obj\Debug\net8.0-windows\ref\aktarma ekranı ( veli hoca).dll
+E:\c#\28.10.2026\aktarma ekranı ( veli hoca)\bin\Debug\net8.0-windows\aktarma ekranı ( veli hoca).exe
+E:\c#\28.10.2026\aktarma ekranı ( veli hoca)\bin\Debug\net8.0-windows\aktarma ekranı ( veli hoca).deps.json
+E:\c#\28.10.2026\aktarma ekranı ( veli hoca)\bin\Debug\net8.0-windows\aktarma ekranı ( veli hoca).runtimeconfig.json
+E:\c#\28.10.2026\aktarma ekranı ( veli hoca)\bin\Debug\net8.0-windows\aktarma ekranı ( veli hoca).dll
+E:\c#\28.10.2026\aktarma ekranı ( veli hoca)\bin\Debug\net8.0-windows\aktarma ekranı ( veli hoca).pdb
+E:\c#\28.10.2026\aktarma ekranı ( veli hoca)\obj\Debug\net8.0-windows\aktarma_ekranı___veli_hoca_.Form1.resources
+E:\c#\28.10.2026\aktarma ekranı ( veli hoca)\obj\Debug\net8.0-windows\aktarma ekranı ( veli hoca).csproj.GenerateResource.cache
+E:\c#\28.10.2026\aktarma ekranı ( veli hoca)\obj\Debug\net8.0-windows\aktarma ekranı ( veli hoca).GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\28.10.2026\aktarma ekranı ( veli hoca)\obj\Debug\net8.0-windows\aktarma ekranı ( veli hoca).AssemblyInfoInputs.cache
+E:\c#\28.10.2026\aktarma ekranı ( veli hoca)\obj\Debug\net8.0-windows\aktarma ekranı ( veli hoca).AssemblyInfo.cs
+E:\c#\28.10.2026\aktarma ekranı ( veli hoca)\obj\Debug\net8.0-windows\aktarma ekranı ( veli hoca).csproj.CoreCompileInputs.cache
+E:\c#\28.10.2026\aktarma ekranı ( veli hoca)\obj\Debug\net8.0-windows\aktarma ekranı ( veli hoca).dll
+E:\c#\28.10.2026\aktarma ekranı ( veli hoca)\obj\Debug\net8.0-windows\refint\aktarma ekranı ( veli hoca).dll
+E:\c#\28.10.2026\aktarma ekranı ( veli hoca)\obj\Debug\net8.0-windows\aktarma ekranı ( veli hoca).pdb
+E:\c#\28.10.2026\aktarma ekranı ( veli hoca)\obj\Debug\net8.0-windows\aktarma ekranı ( veli hoca).genruntimeconfig.cache
+E:\c#\28.10.2026\aktarma ekranı ( veli hoca)\obj\Debug\net8.0-windows\ref\aktarma ekranı ( veli hoca).dll

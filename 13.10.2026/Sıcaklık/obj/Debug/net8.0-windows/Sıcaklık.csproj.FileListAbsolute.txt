@@ -1,0 +1,16 @@
+D:\c#\13.10.2026\Sıcaklık\bin\Debug\net8.0-windows\Sıcaklık.exe
+D:\c#\13.10.2026\Sıcaklık\bin\Debug\net8.0-windows\Sıcaklık.deps.json
+D:\c#\13.10.2026\Sıcaklık\bin\Debug\net8.0-windows\Sıcaklık.runtimeconfig.json
+D:\c#\13.10.2026\Sıcaklık\bin\Debug\net8.0-windows\Sıcaklık.dll
+D:\c#\13.10.2026\Sıcaklık\bin\Debug\net8.0-windows\Sıcaklık.pdb
+D:\c#\13.10.2026\Sıcaklık\obj\Debug\net8.0-windows\Sıcaklık.Form1.resources
+D:\c#\13.10.2026\Sıcaklık\obj\Debug\net8.0-windows\Sıcaklık.csproj.GenerateResource.cache
+D:\c#\13.10.2026\Sıcaklık\obj\Debug\net8.0-windows\Sıcaklık.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\13.10.2026\Sıcaklık\obj\Debug\net8.0-windows\Sıcaklık.AssemblyInfoInputs.cache
+D:\c#\13.10.2026\Sıcaklık\obj\Debug\net8.0-windows\Sıcaklık.AssemblyInfo.cs
+D:\c#\13.10.2026\Sıcaklık\obj\Debug\net8.0-windows\Sıcaklık.csproj.CoreCompileInputs.cache
+D:\c#\13.10.2026\Sıcaklık\obj\Debug\net8.0-windows\Sıcaklık.dll
+D:\c#\13.10.2026\Sıcaklık\obj\Debug\net8.0-windows\refint\Sıcaklık.dll
+D:\c#\13.10.2026\Sıcaklık\obj\Debug\net8.0-windows\Sıcaklık.pdb
+D:\c#\13.10.2026\Sıcaklık\obj\Debug\net8.0-windows\Sıcaklık.genruntimeconfig.cache
+D:\c#\13.10.2026\Sıcaklık\obj\Debug\net8.0-windows\ref\Sıcaklık.dll

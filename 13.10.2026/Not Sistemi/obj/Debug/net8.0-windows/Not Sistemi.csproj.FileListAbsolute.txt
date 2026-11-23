@@ -1,0 +1,16 @@
+D:\c#\13.10.2026\Not Sistemi\bin\Debug\net8.0-windows\Not Sistemi.exe
+D:\c#\13.10.2026\Not Sistemi\bin\Debug\net8.0-windows\Not Sistemi.deps.json
+D:\c#\13.10.2026\Not Sistemi\bin\Debug\net8.0-windows\Not Sistemi.runtimeconfig.json
+D:\c#\13.10.2026\Not Sistemi\bin\Debug\net8.0-windows\Not Sistemi.dll
+D:\c#\13.10.2026\Not Sistemi\bin\Debug\net8.0-windows\Not Sistemi.pdb
+D:\c#\13.10.2026\Not Sistemi\obj\Debug\net8.0-windows\Not_Sistemi.Form1.resources
+D:\c#\13.10.2026\Not Sistemi\obj\Debug\net8.0-windows\Not Sistemi.csproj.GenerateResource.cache
+D:\c#\13.10.2026\Not Sistemi\obj\Debug\net8.0-windows\Not Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\13.10.2026\Not Sistemi\obj\Debug\net8.0-windows\Not Sistemi.AssemblyInfoInputs.cache
+D:\c#\13.10.2026\Not Sistemi\obj\Debug\net8.0-windows\Not Sistemi.AssemblyInfo.cs
+D:\c#\13.10.2026\Not Sistemi\obj\Debug\net8.0-windows\Not Sistemi.csproj.CoreCompileInputs.cache
+D:\c#\13.10.2026\Not Sistemi\obj\Debug\net8.0-windows\Not Sistemi.dll
+D:\c#\13.10.2026\Not Sistemi\obj\Debug\net8.0-windows\refint\Not Sistemi.dll
+D:\c#\13.10.2026\Not Sistemi\obj\Debug\net8.0-windows\Not Sistemi.pdb
+D:\c#\13.10.2026\Not Sistemi\obj\Debug\net8.0-windows\Not Sistemi.genruntimeconfig.cache
+D:\c#\13.10.2026\Not Sistemi\obj\Debug\net8.0-windows\ref\Not Sistemi.dll

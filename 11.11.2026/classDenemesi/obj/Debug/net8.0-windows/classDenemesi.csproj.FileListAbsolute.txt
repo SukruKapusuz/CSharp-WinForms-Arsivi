@@ -1,0 +1,16 @@
+D:\c#\11.11.2026\classDenemesi\bin\Debug\net8.0-windows\classDenemesi.exe
+D:\c#\11.11.2026\classDenemesi\bin\Debug\net8.0-windows\classDenemesi.deps.json
+D:\c#\11.11.2026\classDenemesi\bin\Debug\net8.0-windows\classDenemesi.runtimeconfig.json
+D:\c#\11.11.2026\classDenemesi\bin\Debug\net8.0-windows\classDenemesi.dll
+D:\c#\11.11.2026\classDenemesi\bin\Debug\net8.0-windows\classDenemesi.pdb
+D:\c#\11.11.2026\classDenemesi\obj\Debug\net8.0-windows\classDenemesi.Form1.resources
+D:\c#\11.11.2026\classDenemesi\obj\Debug\net8.0-windows\classDenemesi.csproj.GenerateResource.cache
+D:\c#\11.11.2026\classDenemesi\obj\Debug\net8.0-windows\classDenemesi.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\11.11.2026\classDenemesi\obj\Debug\net8.0-windows\classDenemesi.AssemblyInfoInputs.cache
+D:\c#\11.11.2026\classDenemesi\obj\Debug\net8.0-windows\classDenemesi.AssemblyInfo.cs
+D:\c#\11.11.2026\classDenemesi\obj\Debug\net8.0-windows\classDenemesi.csproj.CoreCompileInputs.cache
+D:\c#\11.11.2026\classDenemesi\obj\Debug\net8.0-windows\classDenemesi.dll
+D:\c#\11.11.2026\classDenemesi\obj\Debug\net8.0-windows\refint\classDenemesi.dll
+D:\c#\11.11.2026\classDenemesi\obj\Debug\net8.0-windows\classDenemesi.pdb
+D:\c#\11.11.2026\classDenemesi\obj\Debug\net8.0-windows\classDenemesi.genruntimeconfig.cache
+D:\c#\11.11.2026\classDenemesi\obj\Debug\net8.0-windows\ref\classDenemesi.dll

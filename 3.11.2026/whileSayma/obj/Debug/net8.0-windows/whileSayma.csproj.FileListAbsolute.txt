@@ -1,0 +1,16 @@
+D:\c#\3.11.2026\whileSayma\bin\Debug\net8.0-windows\whileSayma.exe
+D:\c#\3.11.2026\whileSayma\bin\Debug\net8.0-windows\whileSayma.deps.json
+D:\c#\3.11.2026\whileSayma\bin\Debug\net8.0-windows\whileSayma.runtimeconfig.json
+D:\c#\3.11.2026\whileSayma\bin\Debug\net8.0-windows\whileSayma.dll
+D:\c#\3.11.2026\whileSayma\bin\Debug\net8.0-windows\whileSayma.pdb
+D:\c#\3.11.2026\whileSayma\obj\Debug\net8.0-windows\whileSayma.Form1.resources
+D:\c#\3.11.2026\whileSayma\obj\Debug\net8.0-windows\whileSayma.csproj.GenerateResource.cache
+D:\c#\3.11.2026\whileSayma\obj\Debug\net8.0-windows\whileSayma.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\3.11.2026\whileSayma\obj\Debug\net8.0-windows\whileSayma.AssemblyInfoInputs.cache
+D:\c#\3.11.2026\whileSayma\obj\Debug\net8.0-windows\whileSayma.AssemblyInfo.cs
+D:\c#\3.11.2026\whileSayma\obj\Debug\net8.0-windows\whileSayma.csproj.CoreCompileInputs.cache
+D:\c#\3.11.2026\whileSayma\obj\Debug\net8.0-windows\whileSayma.dll
+D:\c#\3.11.2026\whileSayma\obj\Debug\net8.0-windows\refint\whileSayma.dll
+D:\c#\3.11.2026\whileSayma\obj\Debug\net8.0-windows\whileSayma.pdb
+D:\c#\3.11.2026\whileSayma\obj\Debug\net8.0-windows\whileSayma.genruntimeconfig.cache
+D:\c#\3.11.2026\whileSayma\obj\Debug\net8.0-windows\ref\whileSayma.dll

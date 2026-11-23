@@ -1,0 +1,16 @@
+D:\c#\3.11.2026\hesap makinesi\bin\Debug\net8.0-windows\hesap makinesi.exe
+D:\c#\3.11.2026\hesap makinesi\bin\Debug\net8.0-windows\hesap makinesi.deps.json
+D:\c#\3.11.2026\hesap makinesi\bin\Debug\net8.0-windows\hesap makinesi.runtimeconfig.json
+D:\c#\3.11.2026\hesap makinesi\bin\Debug\net8.0-windows\hesap makinesi.dll
+D:\c#\3.11.2026\hesap makinesi\bin\Debug\net8.0-windows\hesap makinesi.pdb
+D:\c#\3.11.2026\hesap makinesi\obj\Debug\net8.0-windows\hesap_makinesi.Form1.resources
+D:\c#\3.11.2026\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.csproj.GenerateResource.cache
+D:\c#\3.11.2026\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\3.11.2026\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.AssemblyInfoInputs.cache
+D:\c#\3.11.2026\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.AssemblyInfo.cs
+D:\c#\3.11.2026\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.csproj.CoreCompileInputs.cache
+D:\c#\3.11.2026\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.dll
+D:\c#\3.11.2026\hesap makinesi\obj\Debug\net8.0-windows\refint\hesap makinesi.dll
+D:\c#\3.11.2026\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.pdb
+D:\c#\3.11.2026\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.genruntimeconfig.cache
+D:\c#\3.11.2026\hesap makinesi\obj\Debug\net8.0-windows\ref\hesap makinesi.dll

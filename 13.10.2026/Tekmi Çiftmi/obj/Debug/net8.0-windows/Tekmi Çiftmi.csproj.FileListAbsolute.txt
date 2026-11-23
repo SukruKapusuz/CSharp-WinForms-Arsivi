@@ -1,0 +1,16 @@
+C:\Users\Bilisim\source\repos\Tekmi Çiftmi\obj\Debug\net8.0-windows\Tekmi_Çiftmi.Form1.resources
+C:\Users\Bilisim\source\repos\Tekmi Çiftmi\obj\Debug\net8.0-windows\Tekmi Çiftmi.csproj.GenerateResource.cache
+C:\Users\Bilisim\source\repos\Tekmi Çiftmi\obj\Debug\net8.0-windows\Tekmi Çiftmi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilisim\source\repos\Tekmi Çiftmi\obj\Debug\net8.0-windows\Tekmi Çiftmi.AssemblyInfoInputs.cache
+C:\Users\Bilisim\source\repos\Tekmi Çiftmi\obj\Debug\net8.0-windows\Tekmi Çiftmi.AssemblyInfo.cs
+C:\Users\Bilisim\source\repos\Tekmi Çiftmi\obj\Debug\net8.0-windows\Tekmi Çiftmi.csproj.CoreCompileInputs.cache
+C:\Users\Bilisim\source\repos\Tekmi Çiftmi\bin\Debug\net8.0-windows\Tekmi Çiftmi.exe
+C:\Users\Bilisim\source\repos\Tekmi Çiftmi\bin\Debug\net8.0-windows\Tekmi Çiftmi.deps.json
+C:\Users\Bilisim\source\repos\Tekmi Çiftmi\bin\Debug\net8.0-windows\Tekmi Çiftmi.runtimeconfig.json
+C:\Users\Bilisim\source\repos\Tekmi Çiftmi\bin\Debug\net8.0-windows\Tekmi Çiftmi.dll
+C:\Users\Bilisim\source\repos\Tekmi Çiftmi\bin\Debug\net8.0-windows\Tekmi Çiftmi.pdb
+C:\Users\Bilisim\source\repos\Tekmi Çiftmi\obj\Debug\net8.0-windows\Tekmi Çiftmi.dll
+C:\Users\Bilisim\source\repos\Tekmi Çiftmi\obj\Debug\net8.0-windows\refint\Tekmi Çiftmi.dll
+C:\Users\Bilisim\source\repos\Tekmi Çiftmi\obj\Debug\net8.0-windows\Tekmi Çiftmi.pdb
+C:\Users\Bilisim\source\repos\Tekmi Çiftmi\obj\Debug\net8.0-windows\Tekmi Çiftmi.genruntimeconfig.cache
+C:\Users\Bilisim\source\repos\Tekmi Çiftmi\obj\Debug\net8.0-windows\ref\Tekmi Çiftmi.dll

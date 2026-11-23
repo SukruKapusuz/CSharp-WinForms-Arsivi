@@ -1,0 +1,16 @@
+D:\c#\13.10.2026\Toplama Çıkarma\bin\Debug\net8.0-windows\Toplama Çıkarma.exe
+D:\c#\13.10.2026\Toplama Çıkarma\bin\Debug\net8.0-windows\Toplama Çıkarma.deps.json
+D:\c#\13.10.2026\Toplama Çıkarma\bin\Debug\net8.0-windows\Toplama Çıkarma.runtimeconfig.json
+D:\c#\13.10.2026\Toplama Çıkarma\bin\Debug\net8.0-windows\Toplama Çıkarma.dll
+D:\c#\13.10.2026\Toplama Çıkarma\bin\Debug\net8.0-windows\Toplama Çıkarma.pdb
+D:\c#\13.10.2026\Toplama Çıkarma\obj\Debug\net8.0-windows\Toplama_Çıkarma.Form1.resources
+D:\c#\13.10.2026\Toplama Çıkarma\obj\Debug\net8.0-windows\Toplama Çıkarma.csproj.GenerateResource.cache
+D:\c#\13.10.2026\Toplama Çıkarma\obj\Debug\net8.0-windows\Toplama Çıkarma.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\13.10.2026\Toplama Çıkarma\obj\Debug\net8.0-windows\Toplama Çıkarma.AssemblyInfoInputs.cache
+D:\c#\13.10.2026\Toplama Çıkarma\obj\Debug\net8.0-windows\Toplama Çıkarma.AssemblyInfo.cs
+D:\c#\13.10.2026\Toplama Çıkarma\obj\Debug\net8.0-windows\Toplama Çıkarma.csproj.CoreCompileInputs.cache
+D:\c#\13.10.2026\Toplama Çıkarma\obj\Debug\net8.0-windows\Toplama Çıkarma.dll
+D:\c#\13.10.2026\Toplama Çıkarma\obj\Debug\net8.0-windows\refint\Toplama Çıkarma.dll
+D:\c#\13.10.2026\Toplama Çıkarma\obj\Debug\net8.0-windows\Toplama Çıkarma.pdb
+D:\c#\13.10.2026\Toplama Çıkarma\obj\Debug\net8.0-windows\Toplama Çıkarma.genruntimeconfig.cache
+D:\c#\13.10.2026\Toplama Çıkarma\obj\Debug\net8.0-windows\ref\Toplama Çıkarma.dll

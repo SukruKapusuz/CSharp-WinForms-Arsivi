@@ -1,0 +1,16 @@
+D:\c#\20.10.2026\En büyük en küçük\bin\Debug\net8.0-windows\En büyük en küçük.exe
+D:\c#\20.10.2026\En büyük en küçük\bin\Debug\net8.0-windows\En büyük en küçük.deps.json
+D:\c#\20.10.2026\En büyük en küçük\bin\Debug\net8.0-windows\En büyük en küçük.runtimeconfig.json
+D:\c#\20.10.2026\En büyük en küçük\bin\Debug\net8.0-windows\En büyük en küçük.dll
+D:\c#\20.10.2026\En büyük en küçük\bin\Debug\net8.0-windows\En büyük en küçük.pdb
+D:\c#\20.10.2026\En büyük en küçük\obj\Debug\net8.0-windows\En_büyük_en_küçük.Form1.resources
+D:\c#\20.10.2026\En büyük en küçük\obj\Debug\net8.0-windows\En büyük en küçük.csproj.GenerateResource.cache
+D:\c#\20.10.2026\En büyük en küçük\obj\Debug\net8.0-windows\En büyük en küçük.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\20.10.2026\En büyük en küçük\obj\Debug\net8.0-windows\En büyük en küçük.AssemblyInfoInputs.cache
+D:\c#\20.10.2026\En büyük en küçük\obj\Debug\net8.0-windows\En büyük en küçük.AssemblyInfo.cs
+D:\c#\20.10.2026\En büyük en küçük\obj\Debug\net8.0-windows\En büyük en küçük.csproj.CoreCompileInputs.cache
+D:\c#\20.10.2026\En büyük en küçük\obj\Debug\net8.0-windows\En büyük en küçük.dll
+D:\c#\20.10.2026\En büyük en küçük\obj\Debug\net8.0-windows\refint\En büyük en küçük.dll
+D:\c#\20.10.2026\En büyük en küçük\obj\Debug\net8.0-windows\En büyük en küçük.pdb
+D:\c#\20.10.2026\En büyük en küçük\obj\Debug\net8.0-windows\En büyük en küçük.genruntimeconfig.cache
+D:\c#\20.10.2026\En büyük en küçük\obj\Debug\net8.0-windows\ref\En büyük en küçük.dll

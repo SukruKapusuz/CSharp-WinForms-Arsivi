@@ -1,0 +1,16 @@
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Sayı kaç büyük\obj\Debug\net8.0-windows\Sayı_kaç_büyük.Form1.resources
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Sayı kaç büyük\obj\Debug\net8.0-windows\Sayı kaç büyük.csproj.GenerateResource.cache
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Sayı kaç büyük\obj\Debug\net8.0-windows\Sayı kaç büyük.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Sayı kaç büyük\obj\Debug\net8.0-windows\Sayı kaç büyük.AssemblyInfoInputs.cache
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Sayı kaç büyük\obj\Debug\net8.0-windows\Sayı kaç büyük.AssemblyInfo.cs
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Sayı kaç büyük\obj\Debug\net8.0-windows\Sayı kaç büyük.csproj.CoreCompileInputs.cache
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Sayı kaç büyük\bin\Debug\net8.0-windows\Sayı kaç büyük.exe
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Sayı kaç büyük\bin\Debug\net8.0-windows\Sayı kaç büyük.deps.json
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Sayı kaç büyük\bin\Debug\net8.0-windows\Sayı kaç büyük.runtimeconfig.json
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Sayı kaç büyük\bin\Debug\net8.0-windows\Sayı kaç büyük.dll
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Sayı kaç büyük\bin\Debug\net8.0-windows\Sayı kaç büyük.pdb
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Sayı kaç büyük\obj\Debug\net8.0-windows\Sayı kaç büyük.dll
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Sayı kaç büyük\obj\Debug\net8.0-windows\refint\Sayı kaç büyük.dll
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Sayı kaç büyük\obj\Debug\net8.0-windows\Sayı kaç büyük.pdb
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Sayı kaç büyük\obj\Debug\net8.0-windows\Sayı kaç büyük.genruntimeconfig.cache
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Sayı kaç büyük\obj\Debug\net8.0-windows\ref\Sayı kaç büyük.dll

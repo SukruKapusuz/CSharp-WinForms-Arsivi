@@ -1,0 +1,16 @@
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Ehliyet sorgu\bin\Debug\net8.0-windows\Ehliyet sorgu.exe
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Ehliyet sorgu\bin\Debug\net8.0-windows\Ehliyet sorgu.deps.json
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Ehliyet sorgu\bin\Debug\net8.0-windows\Ehliyet sorgu.runtimeconfig.json
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Ehliyet sorgu\bin\Debug\net8.0-windows\Ehliyet sorgu.dll
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Ehliyet sorgu\bin\Debug\net8.0-windows\Ehliyet sorgu.pdb
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Ehliyet sorgu\obj\Debug\net8.0-windows\Ehliyet sorgu.csproj.GenerateResource.cache
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Ehliyet sorgu\obj\Debug\net8.0-windows\Ehliyet sorgu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Ehliyet sorgu\obj\Debug\net8.0-windows\Ehliyet sorgu.AssemblyInfoInputs.cache
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Ehliyet sorgu\obj\Debug\net8.0-windows\Ehliyet sorgu.AssemblyInfo.cs
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Ehliyet sorgu\obj\Debug\net8.0-windows\Ehliyet sorgu.csproj.CoreCompileInputs.cache
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Ehliyet sorgu\obj\Debug\net8.0-windows\Ehliyet sorgu.dll
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Ehliyet sorgu\obj\Debug\net8.0-windows\refint\Ehliyet sorgu.dll
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Ehliyet sorgu\obj\Debug\net8.0-windows\Ehliyet sorgu.pdb
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Ehliyet sorgu\obj\Debug\net8.0-windows\Ehliyet sorgu.genruntimeconfig.cache
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Ehliyet sorgu\obj\Debug\net8.0-windows\ref\Ehliyet sorgu.dll
+C:\Users\Bilisim\Desktop\Şükrü kapusuz7.10.2026\Ehliyet sorgu\obj\Debug\net8.0-windows\Ehliyet_sorgu.Ehliyet_Sorgu.resources

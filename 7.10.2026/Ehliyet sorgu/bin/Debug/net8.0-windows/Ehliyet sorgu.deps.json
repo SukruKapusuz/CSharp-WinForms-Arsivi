@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ehliyet sorgu/1.0.0": {
+        "runtime": {
+          "Ehliyet sorgu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ehliyet sorgu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

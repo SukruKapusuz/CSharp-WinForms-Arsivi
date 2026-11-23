@@ -1,0 +1,16 @@
+D:\c#\21.10.2026\Tema\bin\Debug\net8.0-windows\Tema.exe
+D:\c#\21.10.2026\Tema\bin\Debug\net8.0-windows\Tema.deps.json
+D:\c#\21.10.2026\Tema\bin\Debug\net8.0-windows\Tema.runtimeconfig.json
+D:\c#\21.10.2026\Tema\bin\Debug\net8.0-windows\Tema.dll
+D:\c#\21.10.2026\Tema\bin\Debug\net8.0-windows\Tema.pdb
+D:\c#\21.10.2026\Tema\obj\Debug\net8.0-windows\Tema.Form1.resources
+D:\c#\21.10.2026\Tema\obj\Debug\net8.0-windows\Tema.csproj.GenerateResource.cache
+D:\c#\21.10.2026\Tema\obj\Debug\net8.0-windows\Tema.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\21.10.2026\Tema\obj\Debug\net8.0-windows\Tema.AssemblyInfoInputs.cache
+D:\c#\21.10.2026\Tema\obj\Debug\net8.0-windows\Tema.AssemblyInfo.cs
+D:\c#\21.10.2026\Tema\obj\Debug\net8.0-windows\Tema.csproj.CoreCompileInputs.cache
+D:\c#\21.10.2026\Tema\obj\Debug\net8.0-windows\Tema.dll
+D:\c#\21.10.2026\Tema\obj\Debug\net8.0-windows\refint\Tema.dll
+D:\c#\21.10.2026\Tema\obj\Debug\net8.0-windows\Tema.pdb
+D:\c#\21.10.2026\Tema\obj\Debug\net8.0-windows\Tema.genruntimeconfig.cache
+D:\c#\21.10.2026\Tema\obj\Debug\net8.0-windows\ref\Tema.dll

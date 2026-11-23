@@ -1,0 +1,16 @@
+D:\c#\3.11.2026\100 e kadar while\bin\Debug\net8.0-windows\100 e kadar while.exe
+D:\c#\3.11.2026\100 e kadar while\bin\Debug\net8.0-windows\100 e kadar while.deps.json
+D:\c#\3.11.2026\100 e kadar while\bin\Debug\net8.0-windows\100 e kadar while.runtimeconfig.json
+D:\c#\3.11.2026\100 e kadar while\bin\Debug\net8.0-windows\100 e kadar while.dll
+D:\c#\3.11.2026\100 e kadar while\bin\Debug\net8.0-windows\100 e kadar while.pdb
+D:\c#\3.11.2026\100 e kadar while\obj\Debug\net8.0-windows\_100_e_kadar_while.Form1.resources
+D:\c#\3.11.2026\100 e kadar while\obj\Debug\net8.0-windows\100 e kadar while.csproj.GenerateResource.cache
+D:\c#\3.11.2026\100 e kadar while\obj\Debug\net8.0-windows\100 e kadar while.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\3.11.2026\100 e kadar while\obj\Debug\net8.0-windows\100 e kadar while.AssemblyInfoInputs.cache
+D:\c#\3.11.2026\100 e kadar while\obj\Debug\net8.0-windows\100 e kadar while.AssemblyInfo.cs
+D:\c#\3.11.2026\100 e kadar while\obj\Debug\net8.0-windows\100 e kadar while.csproj.CoreCompileInputs.cache
+D:\c#\3.11.2026\100 e kadar while\obj\Debug\net8.0-windows\100 e kadar while.dll
+D:\c#\3.11.2026\100 e kadar while\obj\Debug\net8.0-windows\refint\100 e kadar while.dll
+D:\c#\3.11.2026\100 e kadar while\obj\Debug\net8.0-windows\100 e kadar while.pdb
+D:\c#\3.11.2026\100 e kadar while\obj\Debug\net8.0-windows\100 e kadar while.genruntimeconfig.cache
+D:\c#\3.11.2026\100 e kadar while\obj\Debug\net8.0-windows\ref\100 e kadar while.dll

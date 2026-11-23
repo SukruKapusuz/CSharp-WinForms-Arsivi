@@ -1,0 +1,16 @@
+D:\c#\3.11.2026\7 defa yazdır\bin\Debug\net8.0-windows\7 defa yazdır.exe
+D:\c#\3.11.2026\7 defa yazdır\bin\Debug\net8.0-windows\7 defa yazdır.deps.json
+D:\c#\3.11.2026\7 defa yazdır\bin\Debug\net8.0-windows\7 defa yazdır.runtimeconfig.json
+D:\c#\3.11.2026\7 defa yazdır\bin\Debug\net8.0-windows\7 defa yazdır.dll
+D:\c#\3.11.2026\7 defa yazdır\bin\Debug\net8.0-windows\7 defa yazdır.pdb
+D:\c#\3.11.2026\7 defa yazdır\obj\Debug\net8.0-windows\_7_defa_yazdır.Form1.resources
+D:\c#\3.11.2026\7 defa yazdır\obj\Debug\net8.0-windows\7 defa yazdır.csproj.GenerateResource.cache
+D:\c#\3.11.2026\7 defa yazdır\obj\Debug\net8.0-windows\7 defa yazdır.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\3.11.2026\7 defa yazdır\obj\Debug\net8.0-windows\7 defa yazdır.AssemblyInfoInputs.cache
+D:\c#\3.11.2026\7 defa yazdır\obj\Debug\net8.0-windows\7 defa yazdır.AssemblyInfo.cs
+D:\c#\3.11.2026\7 defa yazdır\obj\Debug\net8.0-windows\7 defa yazdır.csproj.CoreCompileInputs.cache
+D:\c#\3.11.2026\7 defa yazdır\obj\Debug\net8.0-windows\7 defa yazdır.dll
+D:\c#\3.11.2026\7 defa yazdır\obj\Debug\net8.0-windows\refint\7 defa yazdır.dll
+D:\c#\3.11.2026\7 defa yazdır\obj\Debug\net8.0-windows\7 defa yazdır.pdb
+D:\c#\3.11.2026\7 defa yazdır\obj\Debug\net8.0-windows\7 defa yazdır.genruntimeconfig.cache
+D:\c#\3.11.2026\7 defa yazdır\obj\Debug\net8.0-windows\ref\7 defa yazdır.dll

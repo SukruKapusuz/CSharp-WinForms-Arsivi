@@ -1,0 +1,10 @@
+E:\c#\13.10.2026\Kart Çevirme Oyunu\bin\Debug\Kart Çevirme Oyunu.exe.config
+E:\c#\13.10.2026\Kart Çevirme Oyunu\bin\Debug\Kart Çevirme Oyunu.exe
+E:\c#\13.10.2026\Kart Çevirme Oyunu\bin\Debug\Kart Çevirme Oyunu.pdb
+E:\c#\13.10.2026\Kart Çevirme Oyunu\obj\Debug\Kart Çevirme Oyunu.csproj.AssemblyReference.cache
+E:\c#\13.10.2026\Kart Çevirme Oyunu\obj\Debug\Kart_Çevirme_Oyunu.Form1.resources
+E:\c#\13.10.2026\Kart Çevirme Oyunu\obj\Debug\Kart_Çevirme_Oyunu.Properties.Resources.resources
+E:\c#\13.10.2026\Kart Çevirme Oyunu\obj\Debug\Kart Çevirme Oyunu.csproj.GenerateResource.cache
+E:\c#\13.10.2026\Kart Çevirme Oyunu\obj\Debug\Kart Çevirme Oyunu.csproj.CoreCompileInputs.cache
+E:\c#\13.10.2026\Kart Çevirme Oyunu\obj\Debug\Kart Çevirme Oyunu.exe
+E:\c#\13.10.2026\Kart Çevirme Oyunu\obj\Debug\Kart Çevirme Oyunu.pdb

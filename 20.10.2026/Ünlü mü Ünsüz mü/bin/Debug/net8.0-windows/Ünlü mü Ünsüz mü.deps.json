@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ünlü mü Ünsüz mü/1.0.0": {
+        "runtime": {
+          "Ünlü mü Ünsüz mü.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ünlü mü Ünsüz mü/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

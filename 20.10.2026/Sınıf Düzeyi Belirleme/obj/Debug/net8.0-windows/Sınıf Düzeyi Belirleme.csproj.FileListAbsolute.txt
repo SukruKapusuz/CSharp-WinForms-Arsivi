@@ -1,0 +1,16 @@
+D:\c#\20.10.2026\Sınıf Düzeyi Belirleme\bin\Debug\net8.0-windows\Sınıf Düzeyi Belirleme.exe
+D:\c#\20.10.2026\Sınıf Düzeyi Belirleme\bin\Debug\net8.0-windows\Sınıf Düzeyi Belirleme.deps.json
+D:\c#\20.10.2026\Sınıf Düzeyi Belirleme\bin\Debug\net8.0-windows\Sınıf Düzeyi Belirleme.runtimeconfig.json
+D:\c#\20.10.2026\Sınıf Düzeyi Belirleme\bin\Debug\net8.0-windows\Sınıf Düzeyi Belirleme.dll
+D:\c#\20.10.2026\Sınıf Düzeyi Belirleme\bin\Debug\net8.0-windows\Sınıf Düzeyi Belirleme.pdb
+D:\c#\20.10.2026\Sınıf Düzeyi Belirleme\obj\Debug\net8.0-windows\Sınıf_Düzeyi_Belirleme.Form1.resources
+D:\c#\20.10.2026\Sınıf Düzeyi Belirleme\obj\Debug\net8.0-windows\Sınıf Düzeyi Belirleme.csproj.GenerateResource.cache
+D:\c#\20.10.2026\Sınıf Düzeyi Belirleme\obj\Debug\net8.0-windows\Sınıf Düzeyi Belirleme.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\20.10.2026\Sınıf Düzeyi Belirleme\obj\Debug\net8.0-windows\Sınıf Düzeyi Belirleme.AssemblyInfoInputs.cache
+D:\c#\20.10.2026\Sınıf Düzeyi Belirleme\obj\Debug\net8.0-windows\Sınıf Düzeyi Belirleme.AssemblyInfo.cs
+D:\c#\20.10.2026\Sınıf Düzeyi Belirleme\obj\Debug\net8.0-windows\Sınıf Düzeyi Belirleme.csproj.CoreCompileInputs.cache
+D:\c#\20.10.2026\Sınıf Düzeyi Belirleme\obj\Debug\net8.0-windows\Sınıf Düzeyi Belirleme.dll
+D:\c#\20.10.2026\Sınıf Düzeyi Belirleme\obj\Debug\net8.0-windows\refint\Sınıf Düzeyi Belirleme.dll
+D:\c#\20.10.2026\Sınıf Düzeyi Belirleme\obj\Debug\net8.0-windows\Sınıf Düzeyi Belirleme.pdb
+D:\c#\20.10.2026\Sınıf Düzeyi Belirleme\obj\Debug\net8.0-windows\Sınıf Düzeyi Belirleme.genruntimeconfig.cache
+D:\c#\20.10.2026\Sınıf Düzeyi Belirleme\obj\Debug\net8.0-windows\ref\Sınıf Düzeyi Belirleme.dll

@@ -1,0 +1,16 @@
+D:\c#\20.10.2026\Ünlü mü Ünsüz mü\obj\Debug\net8.0-windows\Ünlü_mü_Ünsüz_mü.Form1.resources
+D:\c#\20.10.2026\Ünlü mü Ünsüz mü\obj\Debug\net8.0-windows\Ünlü mü Ünsüz mü.csproj.GenerateResource.cache
+D:\c#\20.10.2026\Ünlü mü Ünsüz mü\obj\Debug\net8.0-windows\Ünlü mü Ünsüz mü.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\20.10.2026\Ünlü mü Ünsüz mü\obj\Debug\net8.0-windows\Ünlü mü Ünsüz mü.AssemblyInfoInputs.cache
+D:\c#\20.10.2026\Ünlü mü Ünsüz mü\obj\Debug\net8.0-windows\Ünlü mü Ünsüz mü.AssemblyInfo.cs
+D:\c#\20.10.2026\Ünlü mü Ünsüz mü\obj\Debug\net8.0-windows\Ünlü mü Ünsüz mü.csproj.CoreCompileInputs.cache
+D:\c#\20.10.2026\Ünlü mü Ünsüz mü\bin\Debug\net8.0-windows\Ünlü mü Ünsüz mü.exe
+D:\c#\20.10.2026\Ünlü mü Ünsüz mü\bin\Debug\net8.0-windows\Ünlü mü Ünsüz mü.deps.json
+D:\c#\20.10.2026\Ünlü mü Ünsüz mü\bin\Debug\net8.0-windows\Ünlü mü Ünsüz mü.runtimeconfig.json
+D:\c#\20.10.2026\Ünlü mü Ünsüz mü\bin\Debug\net8.0-windows\Ünlü mü Ünsüz mü.dll
+D:\c#\20.10.2026\Ünlü mü Ünsüz mü\bin\Debug\net8.0-windows\Ünlü mü Ünsüz mü.pdb
+D:\c#\20.10.2026\Ünlü mü Ünsüz mü\obj\Debug\net8.0-windows\Ünlü mü Ünsüz mü.dll
+D:\c#\20.10.2026\Ünlü mü Ünsüz mü\obj\Debug\net8.0-windows\refint\Ünlü mü Ünsüz mü.dll
+D:\c#\20.10.2026\Ünlü mü Ünsüz mü\obj\Debug\net8.0-windows\Ünlü mü Ünsüz mü.pdb
+D:\c#\20.10.2026\Ünlü mü Ünsüz mü\obj\Debug\net8.0-windows\Ünlü mü Ünsüz mü.genruntimeconfig.cache
+D:\c#\20.10.2026\Ünlü mü Ünsüz mü\obj\Debug\net8.0-windows\ref\Ünlü mü Ünsüz mü.dll

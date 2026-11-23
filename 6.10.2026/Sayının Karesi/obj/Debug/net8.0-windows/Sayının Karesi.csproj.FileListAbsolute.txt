@@ -1,0 +1,16 @@
+C:\Users\Bilisim\source\repos\Sayının Karesi\obj\Debug\net8.0-windows\Sayının_Karesi.Form1.resources
+C:\Users\Bilisim\source\repos\Sayının Karesi\obj\Debug\net8.0-windows\Sayının Karesi.csproj.GenerateResource.cache
+C:\Users\Bilisim\source\repos\Sayının Karesi\obj\Debug\net8.0-windows\Sayının Karesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilisim\source\repos\Sayının Karesi\obj\Debug\net8.0-windows\Sayının Karesi.AssemblyInfoInputs.cache
+C:\Users\Bilisim\source\repos\Sayının Karesi\obj\Debug\net8.0-windows\Sayının Karesi.AssemblyInfo.cs
+C:\Users\Bilisim\source\repos\Sayının Karesi\obj\Debug\net8.0-windows\Sayının Karesi.csproj.CoreCompileInputs.cache
+C:\Users\Bilisim\source\repos\Sayının Karesi\bin\Debug\net8.0-windows\Sayının Karesi.exe
+C:\Users\Bilisim\source\repos\Sayının Karesi\bin\Debug\net8.0-windows\Sayının Karesi.deps.json
+C:\Users\Bilisim\source\repos\Sayının Karesi\bin\Debug\net8.0-windows\Sayının Karesi.runtimeconfig.json
+C:\Users\Bilisim\source\repos\Sayının Karesi\bin\Debug\net8.0-windows\Sayının Karesi.dll
+C:\Users\Bilisim\source\repos\Sayının Karesi\bin\Debug\net8.0-windows\Sayının Karesi.pdb
+C:\Users\Bilisim\source\repos\Sayının Karesi\obj\Debug\net8.0-windows\Sayının Karesi.dll
+C:\Users\Bilisim\source\repos\Sayının Karesi\obj\Debug\net8.0-windows\refint\Sayının Karesi.dll
+C:\Users\Bilisim\source\repos\Sayının Karesi\obj\Debug\net8.0-windows\Sayının Karesi.pdb
+C:\Users\Bilisim\source\repos\Sayının Karesi\obj\Debug\net8.0-windows\Sayının Karesi.genruntimeconfig.cache
+C:\Users\Bilisim\source\repos\Sayının Karesi\obj\Debug\net8.0-windows\ref\Sayının Karesi.dll

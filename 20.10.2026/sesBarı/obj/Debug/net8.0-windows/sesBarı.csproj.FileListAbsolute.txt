@@ -1,0 +1,16 @@
+D:\c#\20.10.2026\sesBarı\bin\Debug\net8.0-windows\sesBarı.exe
+D:\c#\20.10.2026\sesBarı\bin\Debug\net8.0-windows\sesBarı.deps.json
+D:\c#\20.10.2026\sesBarı\bin\Debug\net8.0-windows\sesBarı.runtimeconfig.json
+D:\c#\20.10.2026\sesBarı\bin\Debug\net8.0-windows\sesBarı.dll
+D:\c#\20.10.2026\sesBarı\bin\Debug\net8.0-windows\sesBarı.pdb
+D:\c#\20.10.2026\sesBarı\obj\Debug\net8.0-windows\sesBarı.Form1.resources
+D:\c#\20.10.2026\sesBarı\obj\Debug\net8.0-windows\sesBarı.csproj.GenerateResource.cache
+D:\c#\20.10.2026\sesBarı\obj\Debug\net8.0-windows\sesBarı.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\20.10.2026\sesBarı\obj\Debug\net8.0-windows\sesBarı.AssemblyInfoInputs.cache
+D:\c#\20.10.2026\sesBarı\obj\Debug\net8.0-windows\sesBarı.AssemblyInfo.cs
+D:\c#\20.10.2026\sesBarı\obj\Debug\net8.0-windows\sesBarı.csproj.CoreCompileInputs.cache
+D:\c#\20.10.2026\sesBarı\obj\Debug\net8.0-windows\sesBarı.dll
+D:\c#\20.10.2026\sesBarı\obj\Debug\net8.0-windows\refint\sesBarı.dll
+D:\c#\20.10.2026\sesBarı\obj\Debug\net8.0-windows\sesBarı.pdb
+D:\c#\20.10.2026\sesBarı\obj\Debug\net8.0-windows\sesBarı.genruntimeconfig.cache
+D:\c#\20.10.2026\sesBarı\obj\Debug\net8.0-windows\ref\sesBarı.dll

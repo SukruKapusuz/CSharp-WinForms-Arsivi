@@ -1,0 +1,16 @@
+D:\c#\20.10.2026\Kasa\bin\Debug\net8.0-windows\Kasa.exe
+D:\c#\20.10.2026\Kasa\bin\Debug\net8.0-windows\Kasa.deps.json
+D:\c#\20.10.2026\Kasa\bin\Debug\net8.0-windows\Kasa.runtimeconfig.json
+D:\c#\20.10.2026\Kasa\bin\Debug\net8.0-windows\Kasa.dll
+D:\c#\20.10.2026\Kasa\bin\Debug\net8.0-windows\Kasa.pdb
+D:\c#\20.10.2026\Kasa\obj\Debug\net8.0-windows\Kasa.Form1.resources
+D:\c#\20.10.2026\Kasa\obj\Debug\net8.0-windows\Kasa.csproj.GenerateResource.cache
+D:\c#\20.10.2026\Kasa\obj\Debug\net8.0-windows\Kasa.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\20.10.2026\Kasa\obj\Debug\net8.0-windows\Kasa.AssemblyInfoInputs.cache
+D:\c#\20.10.2026\Kasa\obj\Debug\net8.0-windows\Kasa.AssemblyInfo.cs
+D:\c#\20.10.2026\Kasa\obj\Debug\net8.0-windows\Kasa.csproj.CoreCompileInputs.cache
+D:\c#\20.10.2026\Kasa\obj\Debug\net8.0-windows\Kasa.dll
+D:\c#\20.10.2026\Kasa\obj\Debug\net8.0-windows\refint\Kasa.dll
+D:\c#\20.10.2026\Kasa\obj\Debug\net8.0-windows\Kasa.pdb
+D:\c#\20.10.2026\Kasa\obj\Debug\net8.0-windows\Kasa.genruntimeconfig.cache
+D:\c#\20.10.2026\Kasa\obj\Debug\net8.0-windows\ref\Kasa.dll

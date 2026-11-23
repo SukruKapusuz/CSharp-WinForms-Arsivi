@@ -1,0 +1,10 @@
+C:\Users\sukru38\Desktop\5.10.2026\market kasası\bin\Debug\market kasası.exe.config
+C:\Users\sukru38\Desktop\5.10.2026\market kasası\bin\Debug\market kasası.exe
+C:\Users\sukru38\Desktop\5.10.2026\market kasası\bin\Debug\market kasası.pdb
+C:\Users\sukru38\Desktop\5.10.2026\market kasası\obj\Debug\market kasası.csproj.AssemblyReference.cache
+C:\Users\sukru38\Desktop\5.10.2026\market kasası\obj\Debug\market_kasası.Form1.resources
+C:\Users\sukru38\Desktop\5.10.2026\market kasası\obj\Debug\market_kasası.Properties.Resources.resources
+C:\Users\sukru38\Desktop\5.10.2026\market kasası\obj\Debug\market kasası.csproj.GenerateResource.cache
+C:\Users\sukru38\Desktop\5.10.2026\market kasası\obj\Debug\market kasası.csproj.CoreCompileInputs.cache
+C:\Users\sukru38\Desktop\5.10.2026\market kasası\obj\Debug\market kasası.exe
+C:\Users\sukru38\Desktop\5.10.2026\market kasası\obj\Debug\market kasası.pdb

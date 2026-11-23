@@ -1,0 +1,10 @@
+C:\Users\sukru38\Desktop\5.10.2026\pizza sipariş ekranı\bin\Debug\pizza sipariş ekranı.exe.config
+C:\Users\sukru38\Desktop\5.10.2026\pizza sipariş ekranı\bin\Debug\pizza sipariş ekranı.exe
+C:\Users\sukru38\Desktop\5.10.2026\pizza sipariş ekranı\bin\Debug\pizza sipariş ekranı.pdb
+C:\Users\sukru38\Desktop\5.10.2026\pizza sipariş ekranı\obj\Debug\pizza sipariş ekranı.csproj.AssemblyReference.cache
+C:\Users\sukru38\Desktop\5.10.2026\pizza sipariş ekranı\obj\Debug\pizza_sipariş_ekranı.Form1.resources
+C:\Users\sukru38\Desktop\5.10.2026\pizza sipariş ekranı\obj\Debug\pizza_sipariş_ekranı.Properties.Resources.resources
+C:\Users\sukru38\Desktop\5.10.2026\pizza sipariş ekranı\obj\Debug\pizza sipariş ekranı.csproj.GenerateResource.cache
+C:\Users\sukru38\Desktop\5.10.2026\pizza sipariş ekranı\obj\Debug\pizza sipariş ekranı.csproj.CoreCompileInputs.cache
+C:\Users\sukru38\Desktop\5.10.2026\pizza sipariş ekranı\obj\Debug\pizza sipariş ekranı.exe
+C:\Users\sukru38\Desktop\5.10.2026\pizza sipariş ekranı\obj\Debug\pizza sipariş ekranı.pdb

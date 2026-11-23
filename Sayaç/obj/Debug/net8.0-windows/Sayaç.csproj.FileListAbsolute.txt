@@ -1,0 +1,16 @@
+D:\c#\27.10.2026\Sayaç\bin\Debug\net8.0-windows\Sayaç.exe
+D:\c#\27.10.2026\Sayaç\bin\Debug\net8.0-windows\Sayaç.deps.json
+D:\c#\27.10.2026\Sayaç\bin\Debug\net8.0-windows\Sayaç.runtimeconfig.json
+D:\c#\27.10.2026\Sayaç\bin\Debug\net8.0-windows\Sayaç.dll
+D:\c#\27.10.2026\Sayaç\bin\Debug\net8.0-windows\Sayaç.pdb
+D:\c#\27.10.2026\Sayaç\obj\Debug\net8.0-windows\Sayaç.Form1.resources
+D:\c#\27.10.2026\Sayaç\obj\Debug\net8.0-windows\Sayaç.csproj.GenerateResource.cache
+D:\c#\27.10.2026\Sayaç\obj\Debug\net8.0-windows\Sayaç.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\27.10.2026\Sayaç\obj\Debug\net8.0-windows\Sayaç.AssemblyInfoInputs.cache
+D:\c#\27.10.2026\Sayaç\obj\Debug\net8.0-windows\Sayaç.AssemblyInfo.cs
+D:\c#\27.10.2026\Sayaç\obj\Debug\net8.0-windows\Sayaç.csproj.CoreCompileInputs.cache
+D:\c#\27.10.2026\Sayaç\obj\Debug\net8.0-windows\Sayaç.dll
+D:\c#\27.10.2026\Sayaç\obj\Debug\net8.0-windows\refint\Sayaç.dll
+D:\c#\27.10.2026\Sayaç\obj\Debug\net8.0-windows\Sayaç.pdb
+D:\c#\27.10.2026\Sayaç\obj\Debug\net8.0-windows\Sayaç.genruntimeconfig.cache
+D:\c#\27.10.2026\Sayaç\obj\Debug\net8.0-windows\ref\Sayaç.dll

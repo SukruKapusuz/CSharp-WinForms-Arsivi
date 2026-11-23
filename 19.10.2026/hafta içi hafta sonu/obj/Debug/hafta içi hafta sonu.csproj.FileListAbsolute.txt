@@ -1,0 +1,20 @@
+E:\c#\19.10.2026\hafta içi hafta sonu\bin\Debug\hafta içi hafta sonu.exe.config
+E:\c#\19.10.2026\hafta içi hafta sonu\bin\Debug\hafta içi hafta sonu.exe
+E:\c#\19.10.2026\hafta içi hafta sonu\bin\Debug\hafta içi hafta sonu.pdb
+E:\c#\19.10.2026\hafta içi hafta sonu\obj\Debug\hafta içi hafta sonu.csproj.AssemblyReference.cache
+E:\c#\19.10.2026\hafta içi hafta sonu\obj\Debug\hafta_içi_hafta_sonu.Form1.resources
+E:\c#\19.10.2026\hafta içi hafta sonu\obj\Debug\hafta_içi_hafta_sonu.Properties.Resources.resources
+E:\c#\19.10.2026\hafta içi hafta sonu\obj\Debug\hafta içi hafta sonu.csproj.GenerateResource.cache
+E:\c#\19.10.2026\hafta içi hafta sonu\obj\Debug\hafta içi hafta sonu.csproj.CoreCompileInputs.cache
+E:\c#\19.10.2026\hafta içi hafta sonu\obj\Debug\hafta içi hafta sonu.exe
+E:\c#\19.10.2026\hafta içi hafta sonu\obj\Debug\hafta içi hafta sonu.pdb
+D:\c#\19.10.2026\hafta içi hafta sonu\bin\Debug\hafta içi hafta sonu.exe.config
+D:\c#\19.10.2026\hafta içi hafta sonu\bin\Debug\hafta içi hafta sonu.exe
+D:\c#\19.10.2026\hafta içi hafta sonu\bin\Debug\hafta içi hafta sonu.pdb
+D:\c#\19.10.2026\hafta içi hafta sonu\obj\Debug\hafta içi hafta sonu.csproj.AssemblyReference.cache
+D:\c#\19.10.2026\hafta içi hafta sonu\obj\Debug\hafta_içi_hafta_sonu.Form1.resources
+D:\c#\19.10.2026\hafta içi hafta sonu\obj\Debug\hafta_içi_hafta_sonu.Properties.Resources.resources
+D:\c#\19.10.2026\hafta içi hafta sonu\obj\Debug\hafta içi hafta sonu.csproj.GenerateResource.cache
+D:\c#\19.10.2026\hafta içi hafta sonu\obj\Debug\hafta içi hafta sonu.csproj.CoreCompileInputs.cache
+D:\c#\19.10.2026\hafta içi hafta sonu\obj\Debug\hafta içi hafta sonu.exe
+D:\c#\19.10.2026\hafta içi hafta sonu\obj\Debug\hafta içi hafta sonu.pdb

@@ -1,0 +1,16 @@
+C:\Users\Bilisim\Desktop\2SayıTopla\bin\Debug\net8.0-windows\2SayıTopla.exe
+C:\Users\Bilisim\Desktop\2SayıTopla\bin\Debug\net8.0-windows\2SayıTopla.deps.json
+C:\Users\Bilisim\Desktop\2SayıTopla\bin\Debug\net8.0-windows\2SayıTopla.runtimeconfig.json
+C:\Users\Bilisim\Desktop\2SayıTopla\bin\Debug\net8.0-windows\2SayıTopla.dll
+C:\Users\Bilisim\Desktop\2SayıTopla\bin\Debug\net8.0-windows\2SayıTopla.pdb
+C:\Users\Bilisim\Desktop\2SayıTopla\obj\Debug\net8.0-windows\_2SayıTopla.Form1.resources
+C:\Users\Bilisim\Desktop\2SayıTopla\obj\Debug\net8.0-windows\2SayıTopla.csproj.GenerateResource.cache
+C:\Users\Bilisim\Desktop\2SayıTopla\obj\Debug\net8.0-windows\2SayıTopla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilisim\Desktop\2SayıTopla\obj\Debug\net8.0-windows\2SayıTopla.AssemblyInfoInputs.cache
+C:\Users\Bilisim\Desktop\2SayıTopla\obj\Debug\net8.0-windows\2SayıTopla.AssemblyInfo.cs
+C:\Users\Bilisim\Desktop\2SayıTopla\obj\Debug\net8.0-windows\2SayıTopla.csproj.CoreCompileInputs.cache
+C:\Users\Bilisim\Desktop\2SayıTopla\obj\Debug\net8.0-windows\2SayıTopla.dll
+C:\Users\Bilisim\Desktop\2SayıTopla\obj\Debug\net8.0-windows\refint\2SayıTopla.dll
+C:\Users\Bilisim\Desktop\2SayıTopla\obj\Debug\net8.0-windows\2SayıTopla.pdb
+C:\Users\Bilisim\Desktop\2SayıTopla\obj\Debug\net8.0-windows\2SayıTopla.genruntimeconfig.cache
+C:\Users\Bilisim\Desktop\2SayıTopla\obj\Debug\net8.0-windows\ref\2SayıTopla.dll

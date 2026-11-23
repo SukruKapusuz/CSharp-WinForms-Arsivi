@@ -1,0 +1,16 @@
+D:\c#\10.11.2026\girisEkranı ( Soru1)\obj\Debug\net8.0-windows\girisEkranı___Soru1_.Form1.resources
+D:\c#\10.11.2026\girisEkranı ( Soru1)\obj\Debug\net8.0-windows\girisEkranı ( Soru1).csproj.GenerateResource.cache
+D:\c#\10.11.2026\girisEkranı ( Soru1)\obj\Debug\net8.0-windows\girisEkranı ( Soru1).GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\10.11.2026\girisEkranı ( Soru1)\obj\Debug\net8.0-windows\girisEkranı ( Soru1).AssemblyInfoInputs.cache
+D:\c#\10.11.2026\girisEkranı ( Soru1)\obj\Debug\net8.0-windows\girisEkranı ( Soru1).AssemblyInfo.cs
+D:\c#\10.11.2026\girisEkranı ( Soru1)\obj\Debug\net8.0-windows\girisEkranı ( Soru1).csproj.CoreCompileInputs.cache
+D:\c#\10.11.2026\girisEkranı ( Soru1)\bin\Debug\net8.0-windows\girisEkranı ( Soru1).exe
+D:\c#\10.11.2026\girisEkranı ( Soru1)\bin\Debug\net8.0-windows\girisEkranı ( Soru1).deps.json
+D:\c#\10.11.2026\girisEkranı ( Soru1)\bin\Debug\net8.0-windows\girisEkranı ( Soru1).runtimeconfig.json
+D:\c#\10.11.2026\girisEkranı ( Soru1)\bin\Debug\net8.0-windows\girisEkranı ( Soru1).dll
+D:\c#\10.11.2026\girisEkranı ( Soru1)\bin\Debug\net8.0-windows\girisEkranı ( Soru1).pdb
+D:\c#\10.11.2026\girisEkranı ( Soru1)\obj\Debug\net8.0-windows\girisEkranı ( Soru1).dll
+D:\c#\10.11.2026\girisEkranı ( Soru1)\obj\Debug\net8.0-windows\refint\girisEkranı ( Soru1).dll
+D:\c#\10.11.2026\girisEkranı ( Soru1)\obj\Debug\net8.0-windows\girisEkranı ( Soru1).pdb
+D:\c#\10.11.2026\girisEkranı ( Soru1)\obj\Debug\net8.0-windows\girisEkranı ( Soru1).genruntimeconfig.cache
+D:\c#\10.11.2026\girisEkranı ( Soru1)\obj\Debug\net8.0-windows\ref\girisEkranı ( Soru1).dll

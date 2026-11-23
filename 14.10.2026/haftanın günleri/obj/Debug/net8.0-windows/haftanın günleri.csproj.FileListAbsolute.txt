@@ -1,0 +1,16 @@
+D:\c#\14.10.2026\haftanın günleri\bin\Debug\net8.0-windows\haftanın günleri.exe
+D:\c#\14.10.2026\haftanın günleri\bin\Debug\net8.0-windows\haftanın günleri.deps.json
+D:\c#\14.10.2026\haftanın günleri\bin\Debug\net8.0-windows\haftanın günleri.runtimeconfig.json
+D:\c#\14.10.2026\haftanın günleri\bin\Debug\net8.0-windows\haftanın günleri.dll
+D:\c#\14.10.2026\haftanın günleri\bin\Debug\net8.0-windows\haftanın günleri.pdb
+D:\c#\14.10.2026\haftanın günleri\obj\Debug\net8.0-windows\haftanın_günleri.Form1.resources
+D:\c#\14.10.2026\haftanın günleri\obj\Debug\net8.0-windows\haftanın günleri.csproj.GenerateResource.cache
+D:\c#\14.10.2026\haftanın günleri\obj\Debug\net8.0-windows\haftanın günleri.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\14.10.2026\haftanın günleri\obj\Debug\net8.0-windows\haftanın günleri.AssemblyInfoInputs.cache
+D:\c#\14.10.2026\haftanın günleri\obj\Debug\net8.0-windows\haftanın günleri.AssemblyInfo.cs
+D:\c#\14.10.2026\haftanın günleri\obj\Debug\net8.0-windows\haftanın günleri.csproj.CoreCompileInputs.cache
+D:\c#\14.10.2026\haftanın günleri\obj\Debug\net8.0-windows\haftanın günleri.dll
+D:\c#\14.10.2026\haftanın günleri\obj\Debug\net8.0-windows\refint\haftanın günleri.dll
+D:\c#\14.10.2026\haftanın günleri\obj\Debug\net8.0-windows\haftanın günleri.pdb
+D:\c#\14.10.2026\haftanın günleri\obj\Debug\net8.0-windows\haftanın günleri.genruntimeconfig.cache
+D:\c#\14.10.2026\haftanın günleri\obj\Debug\net8.0-windows\ref\haftanın günleri.dll

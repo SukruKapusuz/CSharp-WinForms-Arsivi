@@ -1,0 +1,16 @@
+D:\c#\27.10.2026\1den 10a\bin\Debug\net8.0-windows\1den 10a.exe
+D:\c#\27.10.2026\1den 10a\bin\Debug\net8.0-windows\1den 10a.deps.json
+D:\c#\27.10.2026\1den 10a\bin\Debug\net8.0-windows\1den 10a.runtimeconfig.json
+D:\c#\27.10.2026\1den 10a\bin\Debug\net8.0-windows\1den 10a.dll
+D:\c#\27.10.2026\1den 10a\bin\Debug\net8.0-windows\1den 10a.pdb
+D:\c#\27.10.2026\1den 10a\obj\Debug\net8.0-windows\_1den_10a.Form1.resources
+D:\c#\27.10.2026\1den 10a\obj\Debug\net8.0-windows\1den 10a.csproj.GenerateResource.cache
+D:\c#\27.10.2026\1den 10a\obj\Debug\net8.0-windows\1den 10a.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\27.10.2026\1den 10a\obj\Debug\net8.0-windows\1den 10a.AssemblyInfoInputs.cache
+D:\c#\27.10.2026\1den 10a\obj\Debug\net8.0-windows\1den 10a.AssemblyInfo.cs
+D:\c#\27.10.2026\1den 10a\obj\Debug\net8.0-windows\1den 10a.csproj.CoreCompileInputs.cache
+D:\c#\27.10.2026\1den 10a\obj\Debug\net8.0-windows\1den 10a.dll
+D:\c#\27.10.2026\1den 10a\obj\Debug\net8.0-windows\refint\1den 10a.dll
+D:\c#\27.10.2026\1den 10a\obj\Debug\net8.0-windows\1den 10a.pdb
+D:\c#\27.10.2026\1den 10a\obj\Debug\net8.0-windows\1den 10a.genruntimeconfig.cache
+D:\c#\27.10.2026\1den 10a\obj\Debug\net8.0-windows\ref\1den 10a.dll

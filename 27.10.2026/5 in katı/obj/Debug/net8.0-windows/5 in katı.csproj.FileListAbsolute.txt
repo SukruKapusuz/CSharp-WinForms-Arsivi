@@ -1,0 +1,16 @@
+D:\c#\27.10.2026\5 in katı\bin\Debug\net8.0-windows\5 in katı.exe
+D:\c#\27.10.2026\5 in katı\bin\Debug\net8.0-windows\5 in katı.deps.json
+D:\c#\27.10.2026\5 in katı\bin\Debug\net8.0-windows\5 in katı.runtimeconfig.json
+D:\c#\27.10.2026\5 in katı\bin\Debug\net8.0-windows\5 in katı.dll
+D:\c#\27.10.2026\5 in katı\bin\Debug\net8.0-windows\5 in katı.pdb
+D:\c#\27.10.2026\5 in katı\obj\Debug\net8.0-windows\_5_in_katı.Form1.resources
+D:\c#\27.10.2026\5 in katı\obj\Debug\net8.0-windows\5 in katı.csproj.GenerateResource.cache
+D:\c#\27.10.2026\5 in katı\obj\Debug\net8.0-windows\5 in katı.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\27.10.2026\5 in katı\obj\Debug\net8.0-windows\5 in katı.AssemblyInfoInputs.cache
+D:\c#\27.10.2026\5 in katı\obj\Debug\net8.0-windows\5 in katı.AssemblyInfo.cs
+D:\c#\27.10.2026\5 in katı\obj\Debug\net8.0-windows\5 in katı.csproj.CoreCompileInputs.cache
+D:\c#\27.10.2026\5 in katı\obj\Debug\net8.0-windows\5 in katı.dll
+D:\c#\27.10.2026\5 in katı\obj\Debug\net8.0-windows\refint\5 in katı.dll
+D:\c#\27.10.2026\5 in katı\obj\Debug\net8.0-windows\5 in katı.pdb
+D:\c#\27.10.2026\5 in katı\obj\Debug\net8.0-windows\5 in katı.genruntimeconfig.cache
+D:\c#\27.10.2026\5 in katı\obj\Debug\net8.0-windows\ref\5 in katı.dll

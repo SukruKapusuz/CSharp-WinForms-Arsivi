@@ -1,0 +1,35 @@
+E:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\bin\Debug\net8.0-windows\Alışveriş İndirim Hesaplaması.exe
+E:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\bin\Debug\net8.0-windows\Alışveriş İndirim Hesaplaması.deps.json
+E:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\bin\Debug\net8.0-windows\Alışveriş İndirim Hesaplaması.runtimeconfig.json
+E:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\bin\Debug\net8.0-windows\Alışveriş İndirim Hesaplaması.dll
+E:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\bin\Debug\net8.0-windows\Alışveriş İndirim Hesaplaması.pdb
+E:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\obj\Debug\net8.0-windows\Alışveriş_İndirim_Hesaplaması.Form1.resources
+E:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\obj\Debug\net8.0-windows\Alışveriş_İndirim_Hesaplaması.Properties.Resources.resources
+E:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\obj\Debug\net8.0-windows\Alışveriş İndirim Hesaplaması.csproj.GenerateResource.cache
+E:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\obj\Debug\net8.0-windows\Alışveriş İndirim Hesaplaması.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\obj\Debug\net8.0-windows\Alışveriş İndirim Hesaplaması.AssemblyInfoInputs.cache
+E:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\obj\Debug\net8.0-windows\Alışveriş İndirim Hesaplaması.AssemblyInfo.cs
+E:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\obj\Debug\net8.0-windows\Alışveriş İndirim Hesaplaması.csproj.CoreCompileInputs.cache
+E:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\obj\Debug\net8.0-windows\Alışveriş İndirim Hesaplaması.dll
+E:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\obj\Debug\net8.0-windows\refint\Alışveriş İndirim Hesaplaması.dll
+E:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\obj\Debug\net8.0-windows\Alışveriş İndirim Hesaplaması.pdb
+E:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\obj\Debug\net8.0-windows\Alışveriş İndirim Hesaplaması.genruntimeconfig.cache
+E:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\obj\Debug\net8.0-windows\ref\Alışveriş İndirim Hesaplaması.dll
+E:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\obj\Debug\net8.0-windows\Al__veri.EA86BE00.Up2Date
+D:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\bin\Debug\net8.0-windows\Alışveriş İndirim Hesaplaması.exe
+D:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\bin\Debug\net8.0-windows\Alışveriş İndirim Hesaplaması.deps.json
+D:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\bin\Debug\net8.0-windows\Alışveriş İndirim Hesaplaması.runtimeconfig.json
+D:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\bin\Debug\net8.0-windows\Alışveriş İndirim Hesaplaması.dll
+D:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\bin\Debug\net8.0-windows\Alışveriş İndirim Hesaplaması.pdb
+D:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\obj\Debug\net8.0-windows\Alışveriş_İndirim_Hesaplaması.Form1.resources
+D:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\obj\Debug\net8.0-windows\Alışveriş_İndirim_Hesaplaması.Properties.Resources.resources
+D:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\obj\Debug\net8.0-windows\Alışveriş İndirim Hesaplaması.csproj.GenerateResource.cache
+D:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\obj\Debug\net8.0-windows\Alışveriş İndirim Hesaplaması.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\obj\Debug\net8.0-windows\Alışveriş İndirim Hesaplaması.AssemblyInfoInputs.cache
+D:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\obj\Debug\net8.0-windows\Alışveriş İndirim Hesaplaması.AssemblyInfo.cs
+D:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\obj\Debug\net8.0-windows\Alışveriş İndirim Hesaplaması.csproj.CoreCompileInputs.cache
+D:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\obj\Debug\net8.0-windows\Alışveriş İndirim Hesaplaması.dll
+D:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\obj\Debug\net8.0-windows\refint\Alışveriş İndirim Hesaplaması.dll
+D:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\obj\Debug\net8.0-windows\Alışveriş İndirim Hesaplaması.pdb
+D:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\obj\Debug\net8.0-windows\Alışveriş İndirim Hesaplaması.genruntimeconfig.cache
+D:\c#\13.10.2026\MZC\Alışveriş İndirim Hesaplaması\obj\Debug\net8.0-windows\ref\Alışveriş İndirim Hesaplaması.dll

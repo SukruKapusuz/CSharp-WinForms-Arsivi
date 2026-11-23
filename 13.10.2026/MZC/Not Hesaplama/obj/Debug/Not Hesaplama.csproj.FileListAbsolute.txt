@@ -1,0 +1,20 @@
+E:\c#\13.10.2026\MZC\Not Hesaplama\bin\Debug\Not Hesaplama.exe.config
+E:\c#\13.10.2026\MZC\Not Hesaplama\bin\Debug\Not Hesaplama.exe
+E:\c#\13.10.2026\MZC\Not Hesaplama\bin\Debug\Not Hesaplama.pdb
+E:\c#\13.10.2026\MZC\Not Hesaplama\obj\Debug\Not Hesaplama.csproj.AssemblyReference.cache
+E:\c#\13.10.2026\MZC\Not Hesaplama\obj\Debug\Not_Hesaplama.Form1.resources
+E:\c#\13.10.2026\MZC\Not Hesaplama\obj\Debug\Not_Hesaplama.Properties.Resources.resources
+E:\c#\13.10.2026\MZC\Not Hesaplama\obj\Debug\Not Hesaplama.csproj.GenerateResource.cache
+E:\c#\13.10.2026\MZC\Not Hesaplama\obj\Debug\Not Hesaplama.csproj.CoreCompileInputs.cache
+E:\c#\13.10.2026\MZC\Not Hesaplama\obj\Debug\Not Hesaplama.exe
+E:\c#\13.10.2026\MZC\Not Hesaplama\obj\Debug\Not Hesaplama.pdb
+D:\c#\13.10.2026\MZC\Not Hesaplama\bin\Debug\Not Hesaplama.exe.config
+D:\c#\13.10.2026\MZC\Not Hesaplama\bin\Debug\Not Hesaplama.exe
+D:\c#\13.10.2026\MZC\Not Hesaplama\bin\Debug\Not Hesaplama.pdb
+D:\c#\13.10.2026\MZC\Not Hesaplama\obj\Debug\Not Hesaplama.csproj.AssemblyReference.cache
+D:\c#\13.10.2026\MZC\Not Hesaplama\obj\Debug\Not_Hesaplama.Form1.resources
+D:\c#\13.10.2026\MZC\Not Hesaplama\obj\Debug\Not_Hesaplama.Properties.Resources.resources
+D:\c#\13.10.2026\MZC\Not Hesaplama\obj\Debug\Not Hesaplama.csproj.GenerateResource.cache
+D:\c#\13.10.2026\MZC\Not Hesaplama\obj\Debug\Not Hesaplama.csproj.CoreCompileInputs.cache
+D:\c#\13.10.2026\MZC\Not Hesaplama\obj\Debug\Not Hesaplama.exe
+D:\c#\13.10.2026\MZC\Not Hesaplama\obj\Debug\Not Hesaplama.pdb

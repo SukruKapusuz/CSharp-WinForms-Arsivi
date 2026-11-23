@@ -1,0 +1,16 @@
+D:\c#\27.10.2026\7 kez yaz\bin\Debug\net8.0-windows\7 kez yaz.exe
+D:\c#\27.10.2026\7 kez yaz\bin\Debug\net8.0-windows\7 kez yaz.deps.json
+D:\c#\27.10.2026\7 kez yaz\bin\Debug\net8.0-windows\7 kez yaz.runtimeconfig.json
+D:\c#\27.10.2026\7 kez yaz\bin\Debug\net8.0-windows\7 kez yaz.dll
+D:\c#\27.10.2026\7 kez yaz\bin\Debug\net8.0-windows\7 kez yaz.pdb
+D:\c#\27.10.2026\7 kez yaz\obj\Debug\net8.0-windows\_7_kez_yaz.Form1.resources
+D:\c#\27.10.2026\7 kez yaz\obj\Debug\net8.0-windows\7 kez yaz.csproj.GenerateResource.cache
+D:\c#\27.10.2026\7 kez yaz\obj\Debug\net8.0-windows\7 kez yaz.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\27.10.2026\7 kez yaz\obj\Debug\net8.0-windows\7 kez yaz.AssemblyInfoInputs.cache
+D:\c#\27.10.2026\7 kez yaz\obj\Debug\net8.0-windows\7 kez yaz.AssemblyInfo.cs
+D:\c#\27.10.2026\7 kez yaz\obj\Debug\net8.0-windows\7 kez yaz.csproj.CoreCompileInputs.cache
+D:\c#\27.10.2026\7 kez yaz\obj\Debug\net8.0-windows\7 kez yaz.dll
+D:\c#\27.10.2026\7 kez yaz\obj\Debug\net8.0-windows\refint\7 kez yaz.dll
+D:\c#\27.10.2026\7 kez yaz\obj\Debug\net8.0-windows\7 kez yaz.pdb
+D:\c#\27.10.2026\7 kez yaz\obj\Debug\net8.0-windows\7 kez yaz.genruntimeconfig.cache
+D:\c#\27.10.2026\7 kez yaz\obj\Debug\net8.0-windows\ref\7 kez yaz.dll

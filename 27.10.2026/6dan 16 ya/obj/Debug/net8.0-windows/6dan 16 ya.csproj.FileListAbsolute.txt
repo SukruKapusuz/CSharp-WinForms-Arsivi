@@ -1,0 +1,16 @@
+D:\c#\27.10.2026\6dan 16 ya\obj\Debug\net8.0-windows\_6dan_16_ya.Form1.resources
+D:\c#\27.10.2026\6dan 16 ya\obj\Debug\net8.0-windows\6dan 16 ya.csproj.GenerateResource.cache
+D:\c#\27.10.2026\6dan 16 ya\obj\Debug\net8.0-windows\6dan 16 ya.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\27.10.2026\6dan 16 ya\obj\Debug\net8.0-windows\6dan 16 ya.AssemblyInfoInputs.cache
+D:\c#\27.10.2026\6dan 16 ya\obj\Debug\net8.0-windows\6dan 16 ya.AssemblyInfo.cs
+D:\c#\27.10.2026\6dan 16 ya\obj\Debug\net8.0-windows\6dan 16 ya.csproj.CoreCompileInputs.cache
+D:\c#\27.10.2026\6dan 16 ya\bin\Debug\net8.0-windows\6dan 16 ya.exe
+D:\c#\27.10.2026\6dan 16 ya\bin\Debug\net8.0-windows\6dan 16 ya.deps.json
+D:\c#\27.10.2026\6dan 16 ya\bin\Debug\net8.0-windows\6dan 16 ya.runtimeconfig.json
+D:\c#\27.10.2026\6dan 16 ya\bin\Debug\net8.0-windows\6dan 16 ya.dll
+D:\c#\27.10.2026\6dan 16 ya\bin\Debug\net8.0-windows\6dan 16 ya.pdb
+D:\c#\27.10.2026\6dan 16 ya\obj\Debug\net8.0-windows\6dan 16 ya.dll
+D:\c#\27.10.2026\6dan 16 ya\obj\Debug\net8.0-windows\refint\6dan 16 ya.dll
+D:\c#\27.10.2026\6dan 16 ya\obj\Debug\net8.0-windows\6dan 16 ya.pdb
+D:\c#\27.10.2026\6dan 16 ya\obj\Debug\net8.0-windows\6dan 16 ya.genruntimeconfig.cache
+D:\c#\27.10.2026\6dan 16 ya\obj\Debug\net8.0-windows\ref\6dan 16 ya.dll

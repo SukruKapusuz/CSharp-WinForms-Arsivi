@@ -1,0 +1,16 @@
+D:\c#\20.10.2026\Donanım Birimleri\bin\Debug\net8.0-windows\Donanım Birimleri.exe
+D:\c#\20.10.2026\Donanım Birimleri\bin\Debug\net8.0-windows\Donanım Birimleri.deps.json
+D:\c#\20.10.2026\Donanım Birimleri\bin\Debug\net8.0-windows\Donanım Birimleri.runtimeconfig.json
+D:\c#\20.10.2026\Donanım Birimleri\bin\Debug\net8.0-windows\Donanım Birimleri.dll
+D:\c#\20.10.2026\Donanım Birimleri\bin\Debug\net8.0-windows\Donanım Birimleri.pdb
+D:\c#\20.10.2026\Donanım Birimleri\obj\Debug\net8.0-windows\Donanım_Birimleri.Form1.resources
+D:\c#\20.10.2026\Donanım Birimleri\obj\Debug\net8.0-windows\Donanım Birimleri.csproj.GenerateResource.cache
+D:\c#\20.10.2026\Donanım Birimleri\obj\Debug\net8.0-windows\Donanım Birimleri.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\20.10.2026\Donanım Birimleri\obj\Debug\net8.0-windows\Donanım Birimleri.AssemblyInfoInputs.cache
+D:\c#\20.10.2026\Donanım Birimleri\obj\Debug\net8.0-windows\Donanım Birimleri.AssemblyInfo.cs
+D:\c#\20.10.2026\Donanım Birimleri\obj\Debug\net8.0-windows\Donanım Birimleri.csproj.CoreCompileInputs.cache
+D:\c#\20.10.2026\Donanım Birimleri\obj\Debug\net8.0-windows\Donanım Birimleri.dll
+D:\c#\20.10.2026\Donanım Birimleri\obj\Debug\net8.0-windows\refint\Donanım Birimleri.dll
+D:\c#\20.10.2026\Donanım Birimleri\obj\Debug\net8.0-windows\Donanım Birimleri.pdb
+D:\c#\20.10.2026\Donanım Birimleri\obj\Debug\net8.0-windows\Donanım Birimleri.genruntimeconfig.cache
+D:\c#\20.10.2026\Donanım Birimleri\obj\Debug\net8.0-windows\ref\Donanım Birimleri.dll
